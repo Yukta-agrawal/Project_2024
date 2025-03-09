@@ -1,1 +1,1 @@
-# Project_2024
+# Fatty live classification using ultrasound images
